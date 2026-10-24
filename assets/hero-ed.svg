@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-label="Saeed - founder of 77-Technologies, building Fern">
+<defs>
+  <clipPath id="r"><rect width="1200" height="480" rx="20"/></clipPath>
+  <radialGradient id="glow" cx=".85" cy="0" r=".9"><stop offset="0" stop-color="#ff5b2e" stop-opacity=".16"/><stop offset="1" stop-color="#ff5b2e" stop-opacity="0"/></radialGradient>
+  <pattern id="grain" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="1" height="1" fill="#fff" opacity=".025"/></pattern>
+</defs>
+<g clip-path="url(#r)">
+  <rect width="1200" height="480" fill="#0c0c0d"/>
+  <rect width="1200" height="480" fill="url(#glow)"/>
+  <rect width="1200" height="480" fill="url(#grain)"/>
+  
+  <path d="M48 76H1152M48 404H1152" stroke="#26262a"/>
+  <text x="48" y="56" font-family="'JetBrains Mono','SF Mono','Cascadia Mono',Consolas,monospace" font-size="13" letter-spacing="2" fill="#8b8880" text-anchor="start">SAEEDQUIAD</text>
+  <text x="600" y="56" font-family="'JetBrains Mono','SF Mono','Cascadia Mono',Consolas,monospace" font-size="13" letter-spacing="2" fill="#8b8880" text-anchor="middle">PROFILE / 2026</text>
+  <g><text x="1152" y="56" font-family="'JetBrains Mono','SF Mono','Cascadia Mono',Consolas,monospace" font-size="13" letter-spacing="2" fill="#8b8880" text-anchor="end">BUILDING</text></g>
+  <circle cx="1048" cy="51" r="4" fill="#ff5b2e"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+
+  <g font-family="'Inter','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="800">
+    <text x="40" y="318" font-size="250" letter-spacing="-14" textLength="690" lengthAdjust="spacingAndGlyphs" fill="#f3f0e8">Saeed<tspan fill="#ff5b2e">.<animate attributeName="fill-opacity" values="1;1;.15;1" keyTimes="0;.5;.75;1" dur="3s" repeatCount="indefinite"/></tspan></text>
+  </g>
+
+  <g transform="translate(860 168)">
+    <text x="0" y="0" font-family="'JetBrains Mono','SF Mono','Cascadia Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#8b8880" text-anchor="start">FOUNDER</text>
+    <text x="0" y="30" font-family="'Inter','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="600" font-size="26" fill="#f3f0e8">77-Technologies</text>
+    <text x="0" y="86" font-family="'JetBrains Mono','SF Mono','Cascadia Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#8b8880" text-anchor="start">NOW BUILDING</text>
+    <text x="0" y="116" font-family="'Inter','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="600" font-size="26" fill="#f3f0e8">Fern<tspan fill="#8b8880" font-weight="400"> — chat, calls,</tspan></text>
+    <text x="0" y="146" font-family="'Inter','Segoe UI Variable Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="400" font-size="26" fill="#8b8880">and workspaces</text>
+  </g>
+
+  <text x="48" y="444" font-family="'JetBrains Mono','SF Mono','Cascadia Mono',Consolas,monospace" font-size="13" letter-spacing="2" fill="#8b8880" text-anchor="start">DESKTOP &amp; MOBILE SOFTWARE</text>
+  <text x="600" y="444" font-family="'JetBrains Mono','SF Mono','Cascadia Mono',Consolas,monospace" font-size="13" letter-spacing="2" fill="#8b8880" text-anchor="middle">RUST · TAURI · TYPESCRIPT</text>
+  <text x="1152" y="444" font-family="'JetBrains Mono','SF Mono','Cascadia Mono',Consolas,monospace" font-size="13" letter-spacing="2" fill="#8b8880" text-anchor="end">WINDOWS + ANDROID</text>
+  <rect x="48" y="403" width="0" height="2" fill="#ff5b2e"><animate attributeName="width" values="0;1104;1104;0" keyTimes="0;.45;.8;1" dur="9s" repeatCount="indefinite" calcMode="spline" keySplines=".6 0 .2 1;0 0 1 1;.6 0 .2 1"/></rect>
+</g>
+<rect x=".5" y=".5" width="1199" height="479" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+</svg>
